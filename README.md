@@ -1,4 +1,4 @@
-# Coding Challenge with Webpack, Bootstrap, Saas, ES6 and Media Queries
+# Coding Challenge with React, Webpack, Bootstrap, Saas, ES6 and Media Queries
 
 This helps you boostrap your react projects
 
